@@ -1,0 +1,12 @@
+1;2;3
+Course Id;Course Title;Credit
+ACT101;Financial Accounting;3
+ACT201;Management Accounting;3
+BUS231;Business Communication;3
+ITB301;International Business;3
+MGT101;Principles of Management;3
+FIN201;Business Finanace;3
+MGT251;Organizational Behavior;3
+MGT480;Strategic Management;3
+MKT101;Principles of Marketing;3
+MKT201;Marketing Management;3

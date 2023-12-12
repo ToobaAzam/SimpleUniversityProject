@@ -1,0 +1,23 @@
+1;2;3
+Course Id;Course Title;Credit
+CSE110;Object Oriented Programming;4.5
+PHY109;Engineering Physics-1;4
+CHE109;Engineering Chemistry-1;4
+GEN226;Emergence of Bangladesh;3
+ACT101;Financial Accounting;3
+ITB301;International Business;3
+FIN201;Business Finanace;3
+ENG101;Basic English;3
+ENG207;Psycholinguistics;3
+ENG208;Sociolinguistics;3
+LAW101;Law of Contract 1;3
+LAW102;Muslim Law 1;3
+LAW104;Muslim Law 2 ;3
+CE100;Civil Engineering Drawing;1.5
+CE101;Analytic Mechanics;3
+CE261;Fluid Mechanics;4.5
+CSE103;Structured Programming;4.5
+CSE106;Discrete Mathematics;3
+ECO310;Money and Banking;3
+ECO315;Public Finanace;3
+ECO465;Basic Econometrics;3

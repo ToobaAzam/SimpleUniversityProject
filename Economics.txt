@@ -1,0 +1,11 @@
+1;2;3
+Course Id;Course Title;Credit
+ECO304;Economics of Health;3
+ECO312;Industrial Organization;3
+ECO310;Money and Banking;3
+ECO314;Public Sector Economics;3
+ECO315;Public Finanace;3
+ECO465;Basic Econometrics;3
+ECO490;Research Methodology;3
+ECO480;Urban Economics;3
+ECO492;Law and Economics;3

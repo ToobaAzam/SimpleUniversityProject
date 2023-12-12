@@ -1,0 +1,15 @@
+1;2;3
+Course Id;Course Title;Credit
+ENG101;Basic English;3
+ENG207;Psycholinguistics;3
+ENG208;Sociolinguistics;3
+Eng145;Introduction to Linguistic;3
+ENG154;English Phonetics and phonology;3
+ENG155;Improving Reading and Writing skill;3
+ENG205;History of English Language;3
+ENG230;Nineteenth Century Novel;3
+ENG245;Romantic Poetry;3
+ENG306;Mathodology of Language Teaching;3
+ENG310;Shakespeare;3
+ENG403;Modern Novel;3
+ENG438;Literary Criticism;3

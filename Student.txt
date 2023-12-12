@@ -1,0 +1,17 @@
+1;2;3
+Id;Name;CGPA
+0001-1001;Safayet Islam;3.25
+0001-1002;Zubayer Antu;3.98
+0001-1003;Eva Islam;3.68
+0001-1004;Abin Roy;3.15
+0001-1005;Farhan Tanvir;2.98
+0001-1006;Sadia Bristy;3.20
+0001-1007;Arfan Ahmed;3.88
+0001-1008;Azman Ahmed;2.23
+0001-1009;Sadia Hossian;3.65
+0001-1010;Tooba Azam;2.01
+0001-1011;Ashura Akter;3.50
+0001-1012;Ananya Roy;3.88
+0001-1013;Bahauddin Shoikot;3.12
+0001-1014;Sanim Hossian;3.29
+0001-1015;Golam Muhit;2.79

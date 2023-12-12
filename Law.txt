@@ -1,0 +1,13 @@
+1;2;3
+Course Id;Course Title;Credit
+LAW101;Law of contract1 ;3
+LAW102;Muslim law;3
+LAW103;Law of contract2;3
+LAW106;Constitutional Law;3
+LAW202;Criminal  Law;3
+LAW203;Hindu Law;3
+LAW205;Law of Tort;3
+LAW206;Land law;3
+LAW308;Company Law;3
+LAW404;Legal Drafting;3
+LAW408;Trial & Advocacy training;3

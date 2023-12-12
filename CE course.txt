@@ -1,0 +1,10 @@
+1;2;3
+Course Id;Course Title;Credit
+CE100;Civil Engineering Drawing;1.5
+CE102;Computer Aided Drafting;1.5
+CE101;Analytic Mechanics;3
+CE261;Fluid Mechanics;4.5
+CE200;Details of Construstions;1.5
+CE201;Engineering Materials;4.5
+CE211;Mechanics of Solids-1;4.5
+CE213;Mechanics of Solids-3;3

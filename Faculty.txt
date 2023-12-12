@@ -1,0 +1,10 @@
+1;2;3
+ID;Name;Position
+011-1001;Ifftekar Alam;Professor
+011-1002;Jahid Khan;Associate Lecturer
+011-1003;Nadia Haque;Senior Lecturer
+011-1004;Arpita Das;Lecturer
+011-1005;Sadia Hossain;Lecturer
+011-1006;Md.Raqif Bassam;Senior Lecturer
+011-1007;Mahmudul Hasan;Assistant Lecturer
+011-1008;Md.Gias Uddin; Proctor 

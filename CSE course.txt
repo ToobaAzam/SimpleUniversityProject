@@ -1,0 +1,11 @@
+1;2;3
+Course Id;Course Title;Credit
+CSE103;Structured Programming;4.5
+CSE106;Discrete Mathematics;3
+CSE110;Object Oriented Programming;4.5
+CSE209;Electrical Circuits;4
+CSE207;Data Structures;4
+CSE251;Electronic Circuits;4
+CSE221;Operating System;4
+CSE326;Algorithms;4.5
+CSE302;Database System;4.5
